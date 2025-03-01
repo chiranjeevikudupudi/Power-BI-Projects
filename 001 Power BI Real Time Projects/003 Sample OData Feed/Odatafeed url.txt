@@ -1,3 +1,8 @@
 Odata feed url to connect: http://services.odata.org/V4/northwind/northwind.svc/
+
 Rest API url to connect: https://jsonplaceholder.typicode.com/
-Github Url to connect: 
+
+Github Url to connect Text File: 
+https://raw.githubusercontent.com/chiranjeevikudupudi/Power-BI-Projects/refs/heads/main/001%20Power%20BI%20Real%20Time%20Projects/001%20Power%20BI%20Sample%20Text%20File/SampleTextFile.txt
+
+Github Url to connect Excel File: 

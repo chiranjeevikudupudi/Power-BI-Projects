@@ -1,0 +1,3 @@
+Odata feed url to connect: http://services.odata.org/V4/northwind/northwind.svc/
+Rest API url to connect: https://jsonplaceholder.typicode.com/
+Github Url to connect: 

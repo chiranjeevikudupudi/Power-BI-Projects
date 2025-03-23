@@ -1,17 +1,36 @@
-Welcome to BI2AI technolgies training institute Hyderabad Online Classes data sets or input files section.
+BI2AI technologies training institute located in Madhapur, Hyderabad
+
+Google Profile: 
+https://g.co/kgs/rCi5WA4
+
+BI2AI technologies trainer attended Suman TV as a guest to make awareness of the recent AI Scamps, watch the full video at
+https://www.youtube.com/watch?v=QOfyM119mSo&t=2s
+
+BI2AI technologies Youtube Channel:
+https://www.youtube.com/@binlytixnbi2aitechnologies
+
+Bi2AI technologies Instagram:
+https://www.instagram.com/powerbisqltraininginhyderabad
+
+BI2AI Technologies Linkedin Profile:
+https://www.linkedin.com/in/chiranjeevi-kudupudi-biexpert/
+
+BI2AI Technologies Facebook Profile:
+https://www.facebook.com/powerbicourseinhyderabadmadhapursqladvanceexcelvba
+
+---------------------------------------------------------------------------------------------------------------------------
+|     Welcome to BI2AI technolgies training institute Hyderabad Online Classes data sets or input files section.          |
+---------------------------------------------------------------------------------------------------------------------------
 
 Power BI Day1 class data set below (Sales Data including regions, dates, and categories)
 
 https://raw.githubusercontent.com/chiranjeevikudupudi/Power-BI-Projects/refs/heads/main/001%20Power%20BI%20Real%20Time%20Projects/001%20Power%20BI%20Sample%20Text%20File/Power%20BI%20Day1%20Class%20Data%20v2.csv
 
 
-
-GitHub URL to connect the text File which requires cleaning:
+Power Query Transformations -- ToCleanTheData:
 
 https://raw.githubusercontent.com/chiranjeevikudupudi/Power-BI-Projects/refs/heads/main/001%20Power%20BI%20Real%20Time%20Projects/002%20Sample%20Excel%20File/toCleanTheData.txt
 
-OData feed url to connect: 
+Load OData feed data url to connect: 
 http://services.odata.org/V4/northwind/northwind.svc/
 
-REST API url to connect: 
-https://jsonplaceholder.typicode.com/

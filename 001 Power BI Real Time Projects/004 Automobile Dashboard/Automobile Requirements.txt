@@ -1,0 +1,17 @@
+Automobile Dashboard Requirements 
+Mar, 2025 
+
+1) Arrange slicer (to filter the data). The slicer should filter the data based on "Car Manufacturer" (display it horizontally in single row)
+2) Generate a Stacked Bar chart to display avg of horsepower based on Fuel-system of the car 
+3) Generate a Stacked Bar chart to display avg of peak rpm based on Fuel-system of the car  
+4) Display manufacturer's logo at the top (Car Brand Logo)
+5) Display Car image at the bottom of the page (Car Picture)
+6) Generate gauge visual: 
+		Value: average of Price, Maximum Value: max of Price, Target Value: average of Price 
+
+
+Use below colour codes (These represents our BI2AI company brand colours)
+ 
+Black #000000
+White - #FFFFFF 
+Yellow #CCD300 

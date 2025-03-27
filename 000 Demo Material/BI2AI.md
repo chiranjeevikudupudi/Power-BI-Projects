@@ -14,12 +14,16 @@ BI2AI Technologies, a premier training institute in Madhapur, Hyderabad, is your
 📌 Follow Us for Updates & Training Materials:
 🌍 Google Profile: BI2AI Technologies - Google : 
 https://g.co/kgs/rCi5WA4
+
 📺 YouTube: BI2AI Technologies Channel : 
 https://www.youtube.com/@powerbi2aitechnologies
-📸 Instagram: @powerbisqltraininginhyderabad : 
+
+📸 Instagram: 
 https://www.instagram.com/powerbisqltraininginhyderabad
+
 🔗 LinkedIn: Chiranjeevi Kudupudi - BI2AI : 
 https://www.linkedin.com/in/chiranjeevi-kudupudi-biexpert/
+
 📘 Facebook: BI2AI Technologies Training Hub : 
 https://www.facebook.com/powerbicourseinhyderabadmadhapursqladvanceexcelvba
 
@@ -33,13 +37,16 @@ https://www.facebook.com/powerbicourseinhyderabadmadhapursqladvanceexcelvba
 📂 Download Here -- >  
 https://drive.google.com/drive/folders/1qGPayekRSgP0Jx_R4rD6bj1VWOaTijA2?usp=sharing
 
+
 🔹 Power BI Deno Class Global Sales Data Set:
 📊 Get the CSV File 
 https://raw.githubusercontent.com/chiranjeevikudupudi/Power-BI-Projects/refs/heads/main/001%20Power%20BI%20Real%20Time%20Projects/001%20Power%20BI%20Sample%20Text%20File/Power%20BI%20Day1%20Class%20Data%20v2.csv
 
+
 🔹 Power Query Transformations – Data Cleaning File
 📑 Download TXT File : 
 https://raw.githubusercontent.com/chiranjeevikudupudi/Power-BI-Projects/refs/heads/main/001%20Power%20BI%20Real%20Time%20Projects/002%20Sample%20Excel%20File/toCleanTheData.txt
+
 
 🔹 OData Feed URL for Data Connectivity
 🔗 OData Feed : 

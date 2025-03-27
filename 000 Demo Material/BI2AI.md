@@ -12,7 +12,10 @@ BI2AI Technologies, a premier training institute in Madhapur, Hyderabad, is your
 ✅ 100% job assistance
 
 🔹 Exclusive Feature: Our expert trainer was invited as a guest on Suman TV to raise awareness about AI scams! 🎥 Watch the full video here:
-👉 Suman TV Interview : https://www.youtube.com/watch?v=QOfyM119mSo&t=2s
+👉 Suman TV Interview Short: 
+https://www.facebook.com/share/v/1ALJ2kaYQJ/
+Full Video
+https://www.youtube.com/watch?v=QOfyM119mSo&t=2s
 
 📌 Follow Us for Updates & Training Materials:
 🌍 Google Profile: BI2AI Technologies - Google : 

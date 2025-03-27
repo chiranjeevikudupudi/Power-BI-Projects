@@ -7,7 +7,7 @@ BI2AI technologies trainer attended Suman TV as a guest to make awareness of the
 https://www.youtube.com/watch?v=QOfyM119mSo&t=2s
 
 BI2AI technologies Youtube Channel:
-https://www.youtube.com/@binlytixnbi2aitechnologies
+https://www.youtube.com/@powerbi2aitechnologies
 
 Bi2AI technologies Instagram:
 https://www.instagram.com/powerbisqltraininginhyderabad

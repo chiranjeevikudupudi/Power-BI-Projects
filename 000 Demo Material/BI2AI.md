@@ -1,5 +1,8 @@
 🚀 Unlock Your Tech Career with BI2AI Technologies! 🎯
 
+📞 Get in Touch for Training & Demos!
+📲 WhatsApp: +91 88666 66937 / 8885303126
+
 BI2AI Technologies, a premier training institute in Madhapur, Hyderabad, is your gateway to mastering cutting-edge technologies like Power BI, SQL, Advanced Excel, VBA, Cybersecurity, Full-Stack Development, and more!
 
 💡 Why Choose BI2AI Technologies?
@@ -27,8 +30,6 @@ https://www.linkedin.com/in/chiranjeevi-kudupudi-biexpert/
 📘 Facebook: BI2AI Technologies Training Hub : 
 https://www.facebook.com/powerbicourseinhyderabadmadhapursqladvanceexcelvba
 
-📞 Get in Touch for Training & Demos!
-📲 WhatsApp: +91 88666 66937 / 8885303126
 
 🎓 Free Resources for Power BI Learners!
 📥 Download essential tools & datasets: 
@@ -38,7 +39,7 @@ https://www.facebook.com/powerbicourseinhyderabadmadhapursqladvanceexcelvba
 https://drive.google.com/drive/folders/1qGPayekRSgP0Jx_R4rD6bj1VWOaTijA2?usp=sharing
 
 
-🔹 Power BI Deno Class Global Sales Data Set:
+🔹 Power BI Demo Class Global Sales Data Set:
 📊 Get the CSV File 
 https://raw.githubusercontent.com/chiranjeevikudupudi/Power-BI-Projects/refs/heads/main/001%20Power%20BI%20Real%20Time%20Projects/001%20Power%20BI%20Sample%20Text%20File/Power%20BI%20Day1%20Class%20Data%20v2.csv
 
